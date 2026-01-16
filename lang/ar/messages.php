@@ -1,0 +1,22 @@
+<?php 
+return [ 
+    'forbidden' => 'غير مصرح به.', 
+    'wrong_old_password' => 'كلمة السر غير صحيحة', 
+    'invalid_count' => 'الكمية غير مسموحة', 
+    'username_is_not_correct' => 'اسم المستخدم غير صحيح', 
+    'can_not_delete_order' => 'لا يمكنك حذف الطلب بينما الحالة ليست معلقة', 
+    'can_not_delete_image' => 'لا يمكنك حذف جميع الصور', 
+    'can_not_delete_link' => 'لا يمكنك حذف جميع الروابط', 
+    'can_not_delete_file' => 'لا يمكنك حذف جميع الملفات', 
+    'can_not_delete_paragraph' => 'لا يمكنك حذف جميع المواضيع', 
+    'not_found' => 'غير موجود', 
+    'out_of_stock' => 'تم نفاذ كمية المنتج', 
+    'can_not_delete_message' => 'لايمكنك حذف الرسالة', 
+    'invalid_data' => 'بيانات تسجيل دخول خاطئة',
+    'have_to_reset_password' => 'يجب تغيير كلمة المرور',
+    'wrong_password' => 'كلمة سر خاطئة',
+    'can_not_delete_type' => 'لا يمكنك حذف نوع الخصم أثناء ارتباطه بأي رسوم خدمة جامعية',
+    'deleted_successfully' => 'تم الحذف بنجاح',
+    'invalid_parent_id' => 'المعرف الخاص بقسم الأب غير صحيح',
+    'invalid_request_type' => 'خطأ في نوع الطلب',
+];
